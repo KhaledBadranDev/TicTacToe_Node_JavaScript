@@ -9,7 +9,7 @@ This Game can be run in the console/shell/terminal.<br>
 This game is a good practice for Beginners<br>
 and it helps beginners to understand the basics of Node.js<br>
 
-Make sure you have Node, The "prompt-sync" Node module and NPM installed to be able to run this script.
+Make sure you have Node, The "prompt-sync" Node module and NPM installed to be able to run this script.<br><br>
 To be able to use The "prompt-sync" Node module  :-
 - open the shell/console/terminal  
 - navigate to the directory where ticTacToe is
