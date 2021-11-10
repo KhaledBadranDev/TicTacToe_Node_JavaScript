@@ -15,6 +15,14 @@ To be able to use The "prompt-sync" Node module  :-
 - navigate to the directory where ticTacToe is
 - Then run the following command < npm install prompt-sync >
 <br>
+<br>
+
+## To run the game:
+- open the shell/console/terminal  
+- navigate to the directory where ticTacToe.js is
+- Then run the following command < node ticTacToe.js >
+<br>
+<br>
 
 ## Requirements:
 
